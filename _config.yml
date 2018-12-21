@@ -93,8 +93,3 @@ deploy:
   repo: https://github.com/mochiya98/vgblog.git
   branch: gh-pages
 
-browsersync:
-  logLevel: "warn"
-  ghostMode:
-    scroll: true
-  instanceName: "uniqueString"
